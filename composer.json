@@ -59,10 +59,5 @@
         "psr-4": {
             "Broadway\\": "test/Broadway/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.0.x-dev"
-        }
     }
 }
